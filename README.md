@@ -2,7 +2,7 @@
 
 This code is what controls the behaviour of [@TheTypoMaster](https://github.com/thetypomaster), a bot which searches for a typo and finds the latest repositories with that typo. It fixes the typo/typos in the repository and submits a pull request.
 
-Unlike [@thoppe](https://github.com/thoppe)'s [ortographic pedant](https://github.com/thoppe/orthographic-pedant), this bot isn't searching through just the README file but all text files it can get its hands on.
+Unlike [@thoppe](https://github.com/thoppe)'s [orthographic-pedant](https://github.com/thoppe/orthographic-pedant), this bot isn't searching through just the README file but all text files it can get its hands on.
 
 ## Word list
 To search for the typos and check them, the TheTypoMaster is taking help from a text file with about ~4500 wrongly spelled words and the right spelled version of that. You can find it [here](words/words.txt).
