@@ -19,7 +19,7 @@ To turn this project into your own (though it is quite dangerous), please create
 * [@maht0rz](https://github.com/maht0rz)
 * [@sbrl](https://github.com/sbrl)
 
-Without this people, this project probably would have been really bad and not even up on GitHub.
+Without these people, this project probably would have been really bad and not even up on GitHub.
 
 ## But, like, why aren't you submitting any pull requests?
 An automated pull request is forbidden on GitHub, and unless the user specified that their repository specifically accepts automated pull requests, you are on a dangerous road. My account has already been flagged, but thanks to the nice people working over at GitHub they unflagged it. **Please** use this bot with caution.
