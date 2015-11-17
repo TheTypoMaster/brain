@@ -62,7 +62,7 @@ def main():
     at thetypomaster@hotmail.com (professional email, huh?). I’ll try to address the problem as soon as
     I’m aware of it.
 
-    If you decide to close this pull request, pleace specify why before doing so.
+    If you decide to close this pull request, please specify why before doing so.
 
     With kind regards,
     TheTypoMaster
